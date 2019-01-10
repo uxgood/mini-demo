@@ -1,0 +1,13 @@
+{
+    "require": {
+        "uxgood/framework-bundle": "^0.1.0@dev",
+        "symfony/config": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
